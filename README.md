@@ -1,6 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1608suraj&label=Profile%20Views&color=430680&style=flat" alt="SurajYadav" /> </p>
 
-<a href="https://bit.ly/gatere">
+<a href="https://surajyadav.lovable.app/">
 <img src="codegif.webp" width ="30">
 </a>
